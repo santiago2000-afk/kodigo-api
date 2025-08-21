@@ -66,7 +66,6 @@ signInWithEmailAndPassword(auth, email, password)
 ## Buenas prácticas
 
 - Mantén tus credenciales en el archivo `firebase.js`.
-- Documenta las funcionalidades principales en un archivo separado (`FEATURES.md`).
 - Usa control de versiones para tus dependencias (`package-lock.json`).
 
 ## Recursos adicionales
